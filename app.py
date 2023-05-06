@@ -1,6 +1,3 @@
-$ source flask/bin/activate
-$ pip install requests
-
 from flask import Flask, jsonify, request
 import requests
 import spacy
